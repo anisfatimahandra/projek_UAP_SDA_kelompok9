@@ -238,12 +238,12 @@ PERPUSTAKAAN
 
 # 👥 Pembagian Tugas Kelompok
 
-| No | Anggota   | Tugas                                                                                    |
-| -- | --------- | ---------------------------------------------------------------------------------------- |
-| 1  | Anggota 1 | Analisis kebutuhan sistem, perancangan program, implementasi Struct Buku dan Linked List |
-| 2  | Anggota 2 | Implementasi fitur tambah buku, tampil buku, dan pengelolaan data Linked List            |
-| 3  | Anggota 3 | Implementasi Queue (antrian peminjam) dan Stack (riwayat aktivitas)                      |
-| 4  | Anggota 4 | Implementasi menu program, sorting buku, pengujian sistem, dan dokumentasi               |
+| No | Anggota   | Tugas                                                                                        |
+| -- | --------- | -------------------------------------------------------------------------------------------- |
+| 1  | lidya maitara | Analisis kebutuhan sistem, perancangan program, implementasi Struct Buku dan Linked List |
+| 2  | farel riyanto | Implementasi fitur tambah buku, tampil buku, dan pengelolaan data Linked List            |
+| 3  | anis fatimah andra | Implementasi Queue (antrian peminjam) dan Stack (riwayat aktivitas)                 |
+| 4  | winda wulandari | Implementasi menu program, sorting buku, pengujian sistem, dan dokumentasi             |
 
 ---
 
@@ -274,9 +274,9 @@ Fitur yang dapat ditambahkan:
 
 # 👨‍💻 Penulis
 
-Kelompok (Nama Kelompok)
+Kelompok (Kelompok 9)
 
-Proyek: Sistem Manajemen Perpustakaan
+Proyek: Sistem Perpustakaan
 
 Bahasa Pemrograman: C++
 
